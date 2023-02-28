@@ -1,7 +1,7 @@
-# \[Group name\]
+# \[Jonas TA\]
 
 **Group members:**
-- A
+- Jonas Dieu Morsing
 - B
 - C
 
